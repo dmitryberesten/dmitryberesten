@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:boy: I like to create adaptive websites and learn web development. I like working with the visual part of the site. I try to plan my work process as effectively as possible. Ready to learn and develop. My LinkedIn: https://www.linkedin.com/in/dmytrii-beresten
+:boy: I like creating websites. I have experience in team projects in both JS and layout. I was a team leader on one of the training projects. I am learning React. I can work in the Git version control system. I check my work with Pixel Perfect. I make layout from Figma layouts. I use semantic layout, as well as Gulp, Parcel when creating projects. I use SASS. My LinkedIn: https://www.linkedin.com/in/dmytrii-beresten
 
 - 🔭 I’m currently working on project.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with code.
 
